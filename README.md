@@ -14,11 +14,11 @@
 
 
 
-| **Languages** | Java (Core & Advanced), Python |
+  | **Languages** | Java (Core & Advanced), Python |
 
-| **Frameworks & Tools** | Spring Boot, Eclipse, Git, GitHub |
+  | **Frameworks & Tools** | Spring Boot, Eclipse, Git, GitHub |
 
-| **Databases** | SQL, MySQL, Oracle |
+  | **Databases** | SQL, MySQL, Oracle |
 
 
 ### 📫 How to Reach Me
