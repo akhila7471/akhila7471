@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Komera Akhila 👋
 
-<!--
-**akhila7471/akhila7471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Recent Master of Computer Applications (MCA) Graduate.
+- 💻 Passionate about backend development, robust application logic, and database management.
+- 🌱 Currently focusing on building a robust, projects using advanced Java concepts for secure data management.
+- 🎯 Aiming to secure an entry-level software role where I can contribute to building scalable applications, collaborate with engineering teams, and deliver robust technical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Core & Advanced), Python |
+| **Frameworks & Tools** | Spring Boot, Eclipse, Git, GitHub |
+| **Databases** | SQL, MySQL, Oracle |
+
+---
+
+### 📫 How to Reach Me
+- 💼 **LinkedIn:** https://linkedin.com/in/akhilakomera
+- 📧 **Email:** komeraakhila921@gmail.com
