@@ -5,7 +5,7 @@
   
 - 💻 Passionate about Programming.
   
-- 🌱 Currently focusing on building projects.
+- 🌱 Currently focusing on building projects and improving skills.
   
 - 🎯 Aiming to get secure an entry-level software role.   
 
