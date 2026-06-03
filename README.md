@@ -18,7 +18,7 @@
 
   | **Frameworks & Tools** | Spring Boot, Eclipse, Git, GitHub |
 
-  | **Databases** | SQL, MySQL, Oracle |
+  | **Databases** | SQL, MySQL|
 
 
 ### 📫 How to Reach Me
