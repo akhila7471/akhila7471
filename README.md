@@ -22,5 +22,5 @@
 
 
 ### 📫 How to Reach Me
-- 💼 **LinkedIn:** https://linkedin.com/in/akhilakomera
+- 💼 **LinkedIn:** https://linkedin.com/in/komeraakhila
 - 📧 **Email:** komeraakhila921@gmail.com
