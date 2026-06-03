@@ -16,7 +16,7 @@
 
   | **Languages** | Java (Core & Advanced), Python |
 
-  | **Frameworks & Tools** | Spring Boot, Eclipse, Git, GitHub |
+  | **Frameworks & Tools** | Eclipse, GitHub |
 
   | **Databases** | SQL, MySQL|
 
